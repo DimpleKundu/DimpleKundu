@@ -6,7 +6,7 @@
 - Tools I use: Python, FastAPI, Flask, TensorFlow, scikit-learn, Docker, Git/GitHub, PostgreSQL/MongoDB, Streamlit, Azure.  
 - Open to collabs on ML automation + backend services.
 
-**📫 Reach me:** dimplekundu04@gmail.com • [LinkedIn](https://linkedin.com/in/dimple-kundu)  
+**📫 Reach me:**  • [LinkedIn](https://linkedin.com/in/dimple-kundu)  
 
 ---
 
